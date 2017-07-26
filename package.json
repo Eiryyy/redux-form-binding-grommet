@@ -1,0 +1,46 @@
+{
+  "name": "redux-form-binding-grommet",
+  "version": "0.0.1",
+  "description": "Grommet's form components with Redux Form",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eiryyy/redux-form-binding-grommet.git"
+  },
+  "keywords": [
+    "redux",
+    "redux-form",
+    "grommet",
+    "react",
+    "redux-form-binding-grommet"
+  ],
+  "author": "Tsukasa Kawagishi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eiryyy/redux-form-binding-grommet/issues"
+  },
+  "homepage": "https://github.com/Eiryyy/redux-form-binding-grommet#readme",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.1.1",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "eslint": "^4.3.0",
+    "eslint-plugin-react": "^7.1.0",
+    "grommet": "^1.5.0",
+    "react": "^15.6.1",
+    "webpack": "^3.4.1"
+  },
+  "peerDependencies": {
+    "react": "^15.6.1",
+    "redux-form": "^7.0.2"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "redux-form-binding-grommet",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Grommet's form components with Redux Form",
   "main": "./lib/index.js",
   "scripts": {
